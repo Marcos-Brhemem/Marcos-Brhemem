@@ -1,7 +1,7 @@
 ## Olá, me chamo Marcos Brhemem 👋
  
 - 👨‍💻 Estudante
-- 💻 Desenvolvedor web|Desktop
+- 💻 Desenvolvedor Web | Desktop
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-Brhemem&show_icons=true&theme=tokyonight)
 
