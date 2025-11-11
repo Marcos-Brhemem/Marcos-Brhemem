@@ -18,7 +18,7 @@
 <img src="https://camo.githubusercontent.com/2044b98d3b416afd5421b8786c8971d3c45db42408c594763704025c79d53827/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f617a75726573716c64617461626173652f617a75726573716c64617461626173652d6f726967696e616c2e737667" alt="SQL" height="50" width="50">
 
 
- 🎓 I'm currently studying Spring and Angular. <br>
+ 🎓 I'm currently studying Python and Vue. <br>
  🎓 Graduated in systems analysis and development. <br>
  📫 Contact me by email: bremen.mcn@gmail.com<br>
 
